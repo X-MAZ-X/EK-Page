@@ -9,7 +9,21 @@
     integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
     crossorigin="anonymous"></script>
   <title>header</title>
-</head>
+<style>
+    body {
+      background-color: gray;
+    }
+    .navbar {
+      background-color: black; 
+    }
+    .navbar a {
+      color: black;
+    }
+    .navbar a:hover {
+      color: gray; 
+    }
+  </style>
+  
 <body>
   <nav class="navbar navbar-expand-lg bg-body-tertiary">
     <div class="container-fluid">
@@ -30,3 +44,4 @@
       </div>
     </div>
   </nav>
+  </head>
