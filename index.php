@@ -1,10 +1,10 @@
 <?php require_once('./assets/layout/header.php'); ?>
-<div class="container">
     <h1>Willkommen auf meiner EK Website!</h1>
     <p>Kurs: Web Programmierung by Ali Khorsandfard</p>
     <p>Informatiker Winter 2024</p>
     <p>Name: Mark A. Zöphel</p>
     <p>Standort: DAA herford</p>
+    <h1>Kontaktiere Sie mich</h1>
     <form>
         <div class="form-group">
             <label for="email">Email:</label>
@@ -18,5 +18,4 @@
             
 <p class="text-center text-body-secondary"> <button type="submit" class="btn btn-primary">Kontaktiere mich</button> 
     </form>
-</div>
 <?php require_once('./assets/layout/footer.php'); ?>

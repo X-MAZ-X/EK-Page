@@ -1,5 +1,4 @@
 <?php require_once('./assets/layout/header.php'); ?>
-<div class="container">
     <h1>About</h1>
     <p></p>
     <p>Durch die Arbeit mit HTML habe ich gelernt, wie man die Grundstruktur einer Website erstellt. Dabei geht es um
@@ -26,5 +25,4 @@
         <p></p>
         <p class="text-center text-body-secondary"> <button type="submit" class="btn btn-primary">Absenden</button>
     </form>
-</div>
 <?php require_once('./assets/layout/footer.php'); ?>

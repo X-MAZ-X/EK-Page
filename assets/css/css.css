@@ -1,0 +1,22 @@
+ body {
+    background-color: gainsboro;
+  }
+
+  .navbar {
+    background-color: gray;
+  }
+
+  .navbar a {
+    color: black;
+  }
+
+  .navbar a:hover {
+    color: red;
+  }
+
+  footer {
+    background-color: black;
+  }
+  .container{
+    margin: 10px;
+  }

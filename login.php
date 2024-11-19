@@ -1,6 +1,6 @@
 <?php require_once('./assets/layout/header.php'); ?>
-<div class="container">
-    <h1>Login</h1>
+
+<h1>Login</h1>
     <form>
         <div class="form-group">
             <label for="username">Benutzername:</label>
@@ -13,5 +13,4 @@
         <p></p>
         <p class="text-center text-body-secondary"> <button type="submit" class="btn btn-primary">Einloggen</button>
     </form>
-</div>
 <?php require_once('./assets/layout/footer.php'); ?>
